@@ -1,5 +1,8 @@
 .cor-titulo{
-    color:rgb(12, 12, 12);
+    color:rgb(7, 7, 7);
 } body {
-  background-color: rgb(205, 80, 52);
+  background-color: rgb(187, 0, 0);
+}
+a:hover{ 
+  color:rgb(2, 2, 2)
 }
